@@ -1,0 +1,4 @@
+The MATLAB code was written using numbers from the textbook "Fundamentals of Carrier Transport" by Mark Lundstrom.
+
+I don't claim that the calculations here are 100% correct, but they are a good representation of the relaxation and momentum relaxation rates for various scattering mechanisms in Si and GaAs.
+
